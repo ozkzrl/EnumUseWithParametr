@@ -1,0 +1,6 @@
+@EnumUseWithParametr_HostAddress = http://localhost:5271
+
+GET {{EnumUseWithParametr_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
